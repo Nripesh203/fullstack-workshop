@@ -25,8 +25,7 @@
 			<p>Learning materials for students</p>
 
 			<article class="card-featured"> </article>
-			
-			<span>Featured Module</span>
+
 			<h3>Web Technologies</h3>
 			<p> Learning semantics , HTML5, css, flexbox properties</p>
 
@@ -40,7 +39,7 @@
 
 		<article class="card">
 			<h3>Programming basics</h3>
-			<p> Variables, loops, functions and clean problem logic</p>
+			<p> Variables, loops, functions and clen problem logic</p>
 
 			<ul>
 				<li>Control flow</li>
@@ -84,11 +83,11 @@
 			</article>
 		</section>
 
-		<section id="media" class="media">
+		<article class="media">
 			<h2> Multimedia</h2>
 
 			<figure>
-				<img src="assets/study.jpeg" alt="Student studying web development on a laptop"/>
+				<img src="assests/study.jpg" alt="Student studying web development on a laptop"/>
 				<figcaption>Figure 1: Self paced lab practice sessions</figcaption>
 			</figure>
 
@@ -97,7 +96,7 @@
 		<section class="box">
 			<h3> Tutorial Video </h3>
 			<video controls> 
-				<source src="assets/intro.mp4" type="video/mp4"/>
+				<source src="assests/intro.mp4" type="video/mp4"/>
 				Your browser does  ot support HTML5 video
 			</video>
 			</article>
@@ -105,7 +104,7 @@
 			<article class="box">
 				<h3> Revision Audio</h3>
 				<audio controls> 
-					<source src = "assets/audio.mp3" type ="audio/mpeg" />
+					<source src = "assests/audio.mp3" type ="audio/mpeg" />
 					Your browser does not support HTML5 audio
 				</audio>
 			</article>
