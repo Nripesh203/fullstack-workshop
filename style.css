@@ -42,7 +42,7 @@ img,
 video {
   max-width: 100%;
   display: block;
-  border-radius: 6;
+  border-radius: 0.375rem;
 }
 
 audio {
@@ -66,8 +66,8 @@ nav a {
   padding: 0.45rem 0.9rem;
   border-radius: 99rem;
   transition:
-    background 0.2 ease,
-    color 0.2 ease;
+    background 0.2s ease,
+    color 0.2s ease;
 }
 
 nav a:hover {
@@ -97,7 +97,7 @@ section {
 h2 {
   font-size: 1.3rem;
   color: #0f172a;
-  margin-bottom: 0.5 rem;
+  margin-bottom: 0.5rem;
 }
 
 section > p {
@@ -147,7 +147,7 @@ section > p {
 }
 
 .card-featured {
-  border-color: 0.3rem solid #2563eb;
+  border: 0.1875rem solid #2563eb;
   background: linear-gradient(135deg, #dbeafe 0%, #e0e7ff 100%);
 }
 
@@ -205,7 +205,7 @@ code {
 
 .card a:hover,
 .card-featured a:hover,
-.box a:hiver {
+.box a:hover {
   text-decoration: underline;
 }
 
